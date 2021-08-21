@@ -3,7 +3,7 @@ Hangman Game
 ---------------
 
 
-Triple-A: Anish Natekar, Aryan Olkha and Aditya Muppavarapu
+Triple-A: Anish Natekar
 
 
 Project files:
