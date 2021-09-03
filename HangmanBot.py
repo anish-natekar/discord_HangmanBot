@@ -214,5 +214,5 @@ async def hint(ctx):
         elif chances == 0:
             await ctx.send(f"Sorry, 0 attempts left, the word was {word[0]}, better luck next time.")
             game = False
-client.run("ODc4NTYyNzgxODY2MTI3Mzkz.YSC_Wg.9hZP_EvI4jb-hWzQ8BUDJGHvrJ0")
+client.run("Insert your token here")
 
