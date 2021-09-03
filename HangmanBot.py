@@ -153,7 +153,6 @@ async def hangman(ctx):
     '.start' will start the game
     to guess alphabets in game put it after '.' eg to guess 'a' i will type '.a'
     if you get stuck somewhere midgame then use '.hint' to get some clues""")
-# https://discord.com/api/oauth2/authorize?client_id=878562781866127393&permissions=0&scope=bot
 @client.command()
 async def start(ctx):
     global word
